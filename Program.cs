@@ -6,8 +6,10 @@ namespace pattern_template_method
     {
         static void Main(string[] args)
         {
-            // Transfer money
-            // Generate report
+            var transferTask = new TransferMoneyTask();
+            transferTask.Execute();
+            var reportTask = new GenerateReportTask();
+            reportTask.Execute();
         }
     }
 }

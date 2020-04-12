@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-template-method\bin\Debug\netcoreapp3.1\pattern-template-method.exe
+C:\projects\dotnet\pattern-template-method\bin\Debug\netcoreapp3.1\pattern-template-method.deps.json
+C:\projects\dotnet\pattern-template-method\bin\Debug\netcoreapp3.1\pattern-template-method.runtimeconfig.json
+C:\projects\dotnet\pattern-template-method\bin\Debug\netcoreapp3.1\pattern-template-method.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-template-method\bin\Debug\netcoreapp3.1\pattern-template-method.dll
+C:\projects\dotnet\pattern-template-method\bin\Debug\netcoreapp3.1\pattern-template-method.pdb
+C:\projects\dotnet\pattern-template-method\obj\Debug\netcoreapp3.1\pattern-template-method.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-template-method\obj\Debug\netcoreapp3.1\pattern-template-method.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-template-method\obj\Debug\netcoreapp3.1\pattern-template-method.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-template-method\obj\Debug\netcoreapp3.1\pattern-template-method.AssemblyInfo.cs
+C:\projects\dotnet\pattern-template-method\obj\Debug\netcoreapp3.1\pattern-template-method.dll
+C:\projects\dotnet\pattern-template-method\obj\Debug\netcoreapp3.1\pattern-template-method.pdb
+C:\projects\dotnet\pattern-template-method\obj\Debug\netcoreapp3.1\pattern-template-method.genruntimeconfig.cache
